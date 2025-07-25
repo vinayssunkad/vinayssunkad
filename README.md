@@ -18,7 +18,7 @@ Proficient in designing, developing, deploying, and maintaining full-stack solut
 
 ### 💼 Experience
 
-- **Backend Developer** at [grcpulse.in](https://www.grcpulse.in)  
+- **MERN Developer** at [grcpulse.in](https://www.grcpulse.in)  
   - Developed and maintained RESTful APIs for robust backend functionality  
   - Contributed to full-stack development and deployed end-to-end solutions using **AWS**  
   - Built a **vendor and establishment compliance management tool**  
