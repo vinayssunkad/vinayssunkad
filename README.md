@@ -31,9 +31,20 @@ Proficient in designing, developing, deploying, and maintaining full-stack solut
 
 ### 🌐 Projects
 
-- ✅ **Full-Stack Web App** deployed using **AWS** (EC2, S3, Route 53)  
-  - Designed, developed, and deployed end-to-end features  
+- ✅ **[grcpulse.in](https://www.grcpulse.in)** — Full-Stack Compliance Management Platform  
+  - Designed, developed, and deployed end-to-end features using **React**, **Node.js**, and **AWS** (EC2, S3, Route 53)  
+  - Built dashboards, automated assessments, and email alert systems for vendor and establishment compliance tracking  
   - Focused on performance, scalability, and clean UI/UX
+
+- 🔧 **[gigleji.com](https://app.gigleji.com/)** — Backend Development  
+  - Contributed as a **Backend Developer**, working on API integrations and backend logic using **Node.js**  
+  - Ensured robust architecture, authentication, and database communication for scalable performance
+
+- 🌐 **[harrvi.com](https://www.harrvi.com)** — Business Website  
+  - Developed a responsive and modern landing page with clean design and optimized content structure  
+  - Implemented SEO best practices and lightweight front-end assets for better performance
+
+
 
 ---
 
@@ -41,6 +52,7 @@ Proficient in designing, developing, deploying, and maintaining full-stack solut
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinay-s-sunkad-9a6950177/)  
 - 📧 Email: vinayssunkad@gmail.com  
+
 
 ---
 
