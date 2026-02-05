@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vinay S Sunkad 
 ### 💻 Full-Stack Software Engineer | Backend Developer | Cloud Enthusiast
 
-Motivated and results-driven **software engineer** with **3 years** of hands-on experience in building user-friendly web applications. 
+Motivated and results-driven **software engineer** with **3.3 years** of hands-on experience in building user-friendly web applications. 
 Proficient in designing, developing, deploying, and maintaining full-stack solutions with a strong focus on **performance** and **usability**.
 
 ---
